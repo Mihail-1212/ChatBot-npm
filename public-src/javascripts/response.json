@@ -1,0 +1,33 @@
+{
+  "message": {
+    "id": "1",
+    "text": "...",
+    "author": "chatbot",
+    "form": {
+      "fields": [
+        {
+          "name": "Name",
+          "placeholder": "Имя",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "Email",
+          "placeholder": "Email",
+          "type": "email",
+          "required": false
+        }
+      ]
+    }
+  },
+  "answers": [
+    {
+      "id": "1",
+      "text": "Привет!"
+    },
+    {
+      "id": "2",
+      "text": "Пока!"
+    }
+  ]
+}

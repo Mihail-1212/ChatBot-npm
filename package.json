@@ -1,0 +1,26 @@
+{
+  "name": "chat-bot-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "watch": "watchify public-src/javascripts/chat.js -o public/javascripts/chat.min.js",
+    "build": "browserify public-src/javascripts/chat.js -o public/javascripts/chat.min.js",
+    "start": "node ./bin/www",
+    "serve": "SET DEBUG=chat-bot-site:* & npm start",
+    "dev": "nodemon npm run serve"
+  },
+  "nodemonConfig": {
+    "ext": "js json twig"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "node-sass-middleware": "0.11.0",
+    "pg-promise": "^10.11.0",
+    "twig": "~0.10.3"
+  }
+}

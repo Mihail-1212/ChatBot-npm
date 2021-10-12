@@ -1,0 +1,356 @@
+return [
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },{
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "chatbot",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "message",
+        author: "user",
+      },
+
+      {
+        text: "Привет!",
+        date: "2012-04-23T18:25:43.511Z",
+        type: "form",
+        author: "chatbot",
+        fields: [
+          {
+            name: "name",
+            placeholder: "Имя",
+            type: "text",
+            required: true
+          },
+          {
+            name: "email",
+            placeholder: "Email",
+            type: "email",
+            required: false
+          }
+        ]
+      },
+    ]
+
+    [
+      {
+        "text": "Пока!"
+      },
+      {
+        "text": "Привет!"
+      },
+      {
+        "text": "Пока!"
+      },
+
+      {
+        "text": "Привет!"
+      },
+      {
+        "text": "Пока!"
+      },
+
+      {
+        "text": "Привет!"
+      },
+      {
+        "text": "Пока!"
+      },
+      {
+        "text": "Привет!"
+      },
+      {
+        "text": "Пока!"
+      },
+    ]

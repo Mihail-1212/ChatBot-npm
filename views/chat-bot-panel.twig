@@ -1,0 +1,96 @@
+{% block body %}
+
+{{ parent() }}
+
+<div class="joomla-chat">
+
+  <!-- Initial chat have "hide" class-->
+  <div class="chat">
+    <!-- Заголовок -->
+    <div class="chat-header">
+      <p>Чат Детский сад №111</p>
+    </div>
+
+    <div class="chat-wrapper">
+      <!-- Все сообщения -->
+      <div class="chat-messages scrollbox">
+        <div class="chat-messages-body">
+
+          <!-- 
+          <div class="date-send">
+            <span>11 сентября</span>
+          </div>
+          <div class="message message__form chatbot-message is-group">
+            <form>
+              <label class="input">
+                <i class="input__icon__validity"></i>
+                <input class="input__field" type="email" required placeholder=" " />
+                <span class="input__label">Email</span>
+              </label>
+
+              <label class="input">
+                <i class="input__icon__validity"></i>
+                <input class="input__field" type="text" required placeholder=" " />
+                <span class="input__label">ФИО</span>
+              </label>
+
+              <button type="submit"><span class="submit-inner-span">Отправить</span></button>
+            </form>
+          </div>
+        -->
+
+        </div>
+      </div>
+    
+      <div class="chat-actions">
+        <div class="chat-actions-wrapper">
+          <div class="answer-button-group">
+            <!-- <button class="button"><span>{ text }</span></button> -->
+          </div>
+
+          <div class="answer-loader">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+
+        </div>
+
+        <!-- d-none -->
+        <div class="button-actions-group disable-selection">
+          <!-- disabled -->
+          <div class="arrow arrow--left" id="button-prev-actions" title="Предыдущие ответы">
+            <span>Назад</span>
+          </div>
+          <div class="block">
+            <h5 id="block-answers-page"><!-- от x до y из z --></h5>
+          </div>
+          <div class="arrow arrow--right" id="button-next-actions" title="Следующие ответы">
+            <span>Вперед</span>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </div>
+
+  <div class="preview-chat">
+    <i class="icon i-deactive"></i>
+    <!-- On initial i-active have "hide" class-->
+    <i class="icon i-active"></i>
+  </div>
+
+  <audio id="chat-message-send" preload="auto" src="/sounds/chat-message-send.mp3"></audio>
+  <audio id="chat-message-receive" preload="auto" src="/sounds/chat-message-receive.mp3"></audio>
+
+</div>
+
+{% endblock %}
+
+{% block script %}
+  {{ parent() }}
+  <script type="text/javascript" src="/javascripts/chat.min.js"></script>
+{% endblock %}
